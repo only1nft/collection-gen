@@ -1,0 +1,296 @@
+{
+  "supply": 4998,
+  "minUniqueAttributes": 2,
+  "avoidCombinations": [
+    ["Torso/Black Hoodie Down", "Jewellery/Gold Chain"],
+    ["Torso/Black Hoodie Down", "Jewellery/Barbed Wire"],
+
+    ["Torso/Black Hoodie Up", "Jewellery/!None"],
+    ["Torso/Black Hoodie Up", "Headwear/!None"],
+    ["Torso/Black Hoodie Up", "Eyewear/!None"],
+
+    ["Torso/Black Suit", "Jewellery/Barbed Wire"],
+    ["Torso/Black Suit", "Jewellery/Diamond Necklace"],
+    ["Torso/Black Suit", "Jewellery/Gold Chain"],
+    ["Torso/Black Suit", "Jewellery/Ledger"],
+    ["Torso/Black Suit", "Jewellery/VIP Pass"],
+    ["Torso/Black Suit", "Jewellery/Headphones"],
+
+    ["Torso/Blue Tracksuit", "Jewellery/Barbed Wire"],
+    ["Torso/Blue Tracksuit", "Jewellery/Diamond Necklace"],
+    ["Torso/Blue Tracksuit", "Jewellery/Gold Chain"],
+    ["Torso/Blue Tracksuit", "Jewellery/Headphones"],
+
+    ["Torso/Checkered Shirt", "Jewellery/Barbed Wire"],
+    ["Torso/Checkered Shirt", "Jewellery/Diamond Necklace"],
+    ["Torso/Checkered Shirt", "Jewellery/Gold Chain"],
+    ["Torso/Checkered Shirt", "Jewellery/VIP Pass"],
+    ["Torso/Checkered Shirt", "Jewellery/Headphones"],
+
+    ["Torso/Denim Jacket", "Jewellery/Barbed Wire"],
+    ["Torso/Denim Jacket", "Jewellery/Gold Chain"],
+    ["Torso/Denim Jacket", "Jewellery/Headphones"],
+
+    ["Torso/Green Camo Shirt", "Jewellery/Barbed Wire"],
+    ["Torso/Green Camo Shirt", "Jewellery/Diamond Necklace"],
+    ["Torso/Green Camo Shirt", "Jewellery/Gold Chain"],
+    ["Torso/Green Camo Shirt", "Jewellery/VIP Pass"],
+    ["Torso/Green Camo Shirt", "Jewellery/Headphones"],
+
+    ["Torso/Grey Camo Shirt", "Jewellery/Barbed Wire"],
+    ["Torso/Grey Camo Shirt", "Jewellery/Diamond Necklace"],
+    ["Torso/Grey Camo Shirt", "Jewellery/Gold Chain"],
+    ["Torso/Grey Camo Shirt", "Jewellery/VIP Pass"],
+    ["Torso/Grey Camo Shirt", "Jewellery/Headphones"],
+
+    ["Torso/Grey Suit", "Jewellery/Barbed Wire"],
+    ["Torso/Grey Suit", "Jewellery/Diamond Necklace"],
+    ["Torso/Grey Suit", "Jewellery/Gold Chain"],
+    ["Torso/Grey Suit", "Jewellery/Ledger"],
+    ["Torso/Grey Suit", "Jewellery/VIP Pass"],
+    ["Torso/Grey Suit", "Jewellery/Headphones"],
+
+    ["Torso/Grey Sweater", "Jewellery/Barbed Wire"],
+    ["Torso/Grey Sweater", "Jewellery/Gold Chain"],
+
+    ["Torso/Hazmat", "Jewellery/!None"],
+    ["Torso/Hazmat", "Mouth/!None"],
+    ["Torso/Hazmat", "Eyes/!None"],
+    ["Torso/Hazmat", "Eyewear/!None"],
+    ["Torso/Hazmat", "Headwear/!None"],
+
+    ["Torso/Inmate", "Jewellery/Barbed Wire"],
+    ["Torso/Inmate", "Jewellery/Diamond Necklace"],
+    ["Torso/Inmate", "Jewellery/Gold Chain"],
+    ["Torso/Inmate", "Jewellery/VIP Pass"],
+    ["Torso/Inmate", "Jewellery/Headphones"],
+
+    ["Torso/Polo Shirt", "Jewellery/Barbed Wire"],
+    ["Torso/Polo Shirt", "Jewellery/Diamond Necklace"],
+    ["Torso/Polo Shirt", "Jewellery/Gold Chain"],
+    ["Torso/Polo Shirt", "Jewellery/Headphones"],
+
+    ["Torso/Puffer Jacket", "Jewellery/Barbed Wire"],
+    ["Torso/Puffer Jacket", "Jewellery/Diamond Necklace"],
+    ["Torso/Puffer Jacket", "Jewellery/Gold Chain"],
+    ["Torso/Puffer Jacket", "Jewellery/Headphones"],
+    ["Torso/Puffer Jacket", "Jewellery/Silverchain"],
+    ["Torso/Puffer Jacket", "Jewellery/VIP Pass"],
+
+    ["Torso/Turtle Neck", "Jewellery/!None"],
+
+    ["Torso/Varsity Jacket", "Jewellery/Barbed Wire"],
+    ["Torso/Varsity Jacket", "Jewellery/Diamond Necklace"],
+    ["Torso/Varsity Jacket", "Jewellery/Gold Chain"],
+    ["Torso/Varsity Jacket", "Jewellery/Ledger"],
+    ["Torso/Varsity Jacket", "Jewellery/VIP Pass"],
+    ["Torso/Varsity Jacket", "Jewellery/Headphones"],
+
+    ["Eyes/Bloodshot", "Eyewear/3D Glasses"],
+    ["Eyes/Bloodshot", "Eyewear/Black Sunglasses"],
+    ["Eyes/Bloodshot", "Eyewear/Vipers"],
+
+    ["Mouth/Pipe", "Eyes/Popping"],
+    ["Mouth/Cigar", "Eyes/Popping"],
+
+    ["Eyes/Popping", "Eyewear/!None"],
+    ["Eyes/Popping", "Headwear/Grey Sol Cap"],
+    ["Eyes/Popping", "Headwear/Black Bucket Hat"],
+    ["Eyes/Popping", "Headwear/White Bucket Hat"],
+
+    ["Eyes/Swirly", "Eyewear/3D Glasses"],
+    ["Eyes/Swirly", "Eyewear/Black Sunglasses"],
+    ["Eyes/Swirly", "Eyewear/Vipers"],
+
+    ["Eyes/Webbed", "Eyewear/!None"],
+
+    ["Eyewear/3D Glasses", "Headwear/Black Bucket Hat"],
+    ["Eyewear/Black Sunglasses", "Headwear/Black Bucket Hat"],
+    ["Eyewear/Blue Glasses", "Headwear/Black Bucket Hat"],
+    ["Eyewear/Oldskool Glasses", "Headwear/Black Bucket Hat"],
+    ["Eyewear/Orange Glasses", "Headwear/Black Bucket Hat"],
+    ["Eyewear/Pink Glasses", "Headwear/Black Bucket Hat"],
+    ["Eyewear/Vipers", "Headwear/Black Bucket Hat"],
+
+    ["Eyewear/3D Glasses", "Headwear/White Bucket Hat"],
+    ["Eyewear/Black Sunglasses", "Headwear/White Bucket Hat"],
+    ["Eyewear/Blue Glasses", "Headwear/White Bucket Hat"],
+    ["Eyewear/Oldskool Glasses", "Headwear/White Bucket Hat"],
+    ["Eyewear/Orange Glasses", "Headwear/White Bucket Hat"],
+    ["Eyewear/Pink Glasses", "Headwear/White Bucket Hat"],
+    ["Eyewear/Vipers", "Headwear/White Bucket Hat"],
+
+    ["Jewellery/Headphones", "Headwear/Headphones"]
+  ],
+  "attributes": [
+    {
+      "name": "Background",
+      "variants": [
+        { "name": "Blue Grey", "allocPct": 6.25 },
+        { "name": "Brown", "allocPct": 6.25 },
+        { "name": "Cream", "allocPct": 6.25 },
+        { "name": "Green", "allocPct": 6.25 },
+        { "name": "Grey", "allocPct": 6.25 },
+        { "name": "Light Brown", "allocPct": 6.25 },
+        { "name": "Light Green", "allocPct": 6.25 },
+        { "name": "Lilac", "allocPct": 6.25 },
+        { "name": "Lime", "allocPct": 6.25 },
+        { "name": "Mauve", "allocPct": 6.25 },
+        { "name": "Mud", "allocPct": 6.25 },
+        { "name": "Pale Blue", "allocPct": 6.25 },
+        { "name": "Peppermint", "allocPct": 6.25 },
+        { "name": "Purple", "allocPct": 6.25 },
+        { "name": "Salmon", "allocPct": 6.25 },
+        { "name": "White", "allocPct": 6.25 }
+      ]
+    },
+
+    {
+      "name": "Wings",
+      "variants": [
+        { "name": "Angel Wings", "allocPct": 0.6 },
+        { "name": "Demon Wings", "allocPct": 0.5 },
+        { "name": "None", "allocPct": 98.9 }
+      ]
+    },
+
+    {
+      "name": "Skin",
+      "variants": [
+        { "name": "Bone", "allocPct": 30 },
+        { "name": "Demonic", "allocPct": 0.75 },
+        { "name": "Diamond", "allocPct": 1.25 },
+        { "name": "Gold", "allocPct": 6 },
+        { "name": "Pumpkin", "allocPct": 16 },
+        { "name": "Radioactive", "allocPct": 3 },
+        { "name": "Robotic", "allocPct": 8 },
+        { "name": "Solana", "allocPct": 2.5 },
+        { "name": "White Walker", "allocPct": 9 },
+        { "name": "XRay", "allocPct": 3.5 },
+        { "name": "Zombie", "allocPct": 20 }
+      ]
+    },
+
+    {
+      "name": "Torso",
+      "variants": [
+        { "name": "Black Hoodie Down", "allocPct": 3 },
+        { "name": "Black Hoodie Up", "allocPct": 0.75 },
+        { "name": "Black Suit", "allocPct": 2.15 },
+        { "name": "Black Tshirt", "allocPct": 4.15 },
+        { "name": "Blue Tracksuit", "allocPct": 3.25 },
+        { "name": "Checkered Shirt", "allocPct": 4.3 },
+        { "name": "Denim Jacket", "allocPct": 4.9 },
+        { "name": "Green Basketball Jersey", "allocPct": 3.6 },
+        { "name": "Green Camo Shirt", "allocPct": 3.8 },
+        { "name": "Grey Camo Shirt", "allocPct": 4.2 },
+        { "name": "Grey Suit", "allocPct": 2.85 },
+        { "name": "Grey Sweater", "allocPct": 5.55 },
+        { "name": "Grey Tshirt", "allocPct": 5 },
+        { "name": "Hazmat", "allocPct": 0.25 },
+        { "name": "Inmate", "allocPct": 1.75 },
+        { "name": "Polo Shirt", "allocPct": 5 },
+        { "name": "Puffer Jacket", "allocPct": 3 },
+        { "name": "Red Tshirt", "allocPct": 5 },
+        { "name": "Tank Top", "allocPct": 4 },
+        { "name": "Turtle Neck", "allocPct": 2.5 },
+        { "name": "Varsity Jacket", "allocPct": 6 },
+        { "name": "White Tshirt", "allocPct": 5 },
+        { "name": "None", "allocPct": 20 }
+      ]
+    },
+
+    {
+      "name": "Jewellery",
+      "variants": [
+        { "name": "Barbed Wire", "allocPct": 6 },
+        { "name": "Diamond Necklace", "allocPct": 0.25 },
+        { "name": "Dog Tags", "allocPct": 7 },
+        { "name": "Gold Chain", "allocPct": 3 },
+        { "name": "Headphones", "allocPct": 0.75 },
+        { "name": "Ledger", "allocPct": 3 },
+        { "name": "Necklace Of Ears", "allocPct": 1 },
+        { "name": "Silver Chain", "allocPct": 5 },
+        { "name": "VIP Pass", "allocPct": 4 },
+        { "name": "None", "allocPct": 70 }
+      ]
+    },
+
+    {
+      "name": "Mouth",
+      "variants": [
+        { "name": "Black Bandana", "allocPct": 2.3 },
+        { "name": "Black Moustache", "allocPct": 3 },
+        { "name": "Blonde Moustache", "allocPct": 1.7 },
+        { "name": "Blunt", "allocPct": 3.3 },
+        { "name": "Brown Beard", "allocPct": 2 },
+        { "name": "Grey Beard", "allocPct": 1.85 },
+        { "name": "Cigar", "allocPct": 1.25 },
+        { "name": "Diamond Teeth", "allocPct": 0.5 },
+        { "name": "Gold Teeth", "allocPct": 0.75 },
+        { "name": "Pipe", "allocPct": 1 },
+        { "name": "Smashed Teeth", "allocPct": 0.85 },
+        { "name": "Vape", "allocPct": 1.5 },
+        { "name": "None", "allocPct": 80 }
+      ]
+    },
+
+    {
+      "name": "Eyes",
+      "variants": [
+        { "name": "Bloodshot", "allocPct": 13 },
+        { "name": "Popping", "allocPct": 1 },
+        { "name": "Swirly", "allocPct": 5 },
+        { "name": "Webbed", "allocPct": 3 },
+        { "name": "None", "allocPct": 78 }
+      ]
+    },
+
+    {
+      "name": "Eyewear",
+      "variants": [
+        { "name": "3D Glasses", "allocPct": 2 },
+        { "name": "Aqua Circle Glasses", "allocPct": 2.45 },
+        { "name": "Black Sunglasses", "allocPct": 8 },
+        { "name": "Blue Glasses", "allocPct": 3.55 },
+        { "name": "Oldskool Glasses", "allocPct": 4.25 },
+        { "name": "Orange Glasses", "allocPct": 3 },
+        { "name": "Pink Glasses", "allocPct": 2.75 },
+        { "name": "Red Circle Glasses", "allocPct": 4 },
+        { "name": "Vipers", "allocPct": 0.75 },
+        { "name": "None", "allocPct": 69.25 }
+      ]
+    },
+
+    {
+      "name": "Headwear",
+      "variants": [
+        { "name": "Black Bucket Hat", "allocPct": 2.5 },
+        { "name": "Blue Sweatband", "allocPct": 3.5 },
+        { "name": "Cowboy Hat", "allocPct": 4.15 },
+        { "name": "Crown", "allocPct": 0.75 },
+        { "name": "Demon Horns", "allocPct": 1.25 },
+        { "name": "Grey Sol Cap", "allocPct": 4 },
+        { "name": "Halo", "allocPct": 0.5 },
+        { "name": "Headphones", "allocPct": 3.25 },
+        { "name": "Orange Beanie", "allocPct": 5 },
+        { "name": "Red Backwards Cap", "allocPct": 5.25 },
+        { "name": "Red Sweatband", "allocPct": 3 },
+        { "name": "Sol Snapback", "allocPct": 1 },
+        { "name": "Tattoo", "allocPct": 2 },
+        { "name": "White Bucket Hat", "allocPct": 2 },
+        { "name": "Yellow Snapback", "allocPct": 4.35 },
+        { "name": "None", "allocPct": 57.5 }
+      ]
+    },
+
+    {
+      "name": "Army",
+      "variants": [
+        { "name": "Skellies", "allocPct": 33.3333333334 },
+        { "name": "Grimms", "allocPct": 33.3333333333 },
+        { "name": "Undead", "allocPct": 33.3333333333 }
+      ]
+    }
+  ]
+}

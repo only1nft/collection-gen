@@ -1,0 +1,12 @@
+{
+  "name": "collection-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^2.0.3",
+    "sharp": "^0.31.0"
+  }
+}
